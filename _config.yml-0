@@ -1,0 +1,68 @@
+title: Alex Senave
+email: alex.senave@gmail.com
+description: > # this means to ignore newlines until "baseurl:" 
+  This website gives an overview of some of the projects (python and powerbi) done by me. In addition, for students or those interested, I have added some papers I created while in college (magnetism, superconductivity, harmonic crystals, Hartree-Fock, MiFID, Basel, money laundering,...)
+#baseurl: "http://www.nieuwsblad.be" # the subpath of your site, e.g. /blog
+#url: "http://www.nieuwsblad.be" # the base hostname & protocol for your site, e.g. http://example.com
+
+author: "Alex Senave"
+  website: https://www.hln.be 
+  email: alex.senave@gmail.com
+
+social_links:
+    linkedin: alex-senave-9197ba143
+    github:  alexsen01
+    
+#linkedin_username: alex-senave-9197ba143
+#github_username:  alexsen01
+
+#site.author: alexsen
+
+defaults:
+  - scope:
+      path: "assets/img"
+    values:
+      image: true
+
+# Build settings
+theme: minima
+
+plugins:
+  - jekyll-feed
+
+minima:
+  skin: dark
+
+#author_profile : true
+
+
+#  name: alex.test.name
+# url: https://www.hln.be    
+#    icon: fab fa-twitter-square
+ #name: alexsen-test
+ #email: test@test.be
+ 
+#site.author.name: https://www.www.nieuwsblad.be  
+  #url: https://www.www.nieuwsblad.be  
+ 
+ 
+
+# Exclude from processing.
+# The following items will not be processed, by default.
+# Any item listed under the `exclude:` key here will be automatically added to
+# the internal "default list".
+#
+# Excluded items can be processed by explicitly listing the directories or
+# their entries' file path in the `include:` list.
+#
+# exclude:
+#   - .sass-cache/
+#   - .jekyll-cache/
+#   - gemfiles/
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules/
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
