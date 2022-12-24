@@ -158,7 +158,7 @@ This website gives an overview of some of the class-projects (Python and Power B
 	* WCO vs Chapter 11: [WCO](assets/img/WCO.pdf).
 	* Successieplanning (succession/inheritance planning): [Successieplanning](assets/img/Successieplanning.pdf).
 	* Twin Peaks II (MiFID and AssurMiFID): [Twin Peaks II](assets/img/Twin_Peaks_II.pdf).
-	* Basel en Solvency (Basel and Solvancy): [Basel-Solvency](assets/img/De_nieuwe_architectuur.pdf).
+	* Basel en Solvency (Basel and Solvency): [Basel-Solvency](assets/img/De_nieuwe_architectuur.pdf).
 	* Witwaswetgeving (money laundering): [Witwaswetgeving](assets/img/Witwaswetgeving.pdf).
 	* IPO: [IPO](assets/img/IPO.pdf).
 	
