@@ -30,7 +30,7 @@ This website gives an overview of some of the class-projects (Python and Power B
 			
 			* script: 
 				- download link: [codebreaking - version 1](assets/img/Code-version-1-Senave_Alex_oef_workshop6_1.7.4.py)
-				- Github link to script: ---to be added---
+				
 			
 		* Exercise a - version2
 			* Description
@@ -41,7 +41,7 @@ This website gives an overview of some of the class-projects (Python and Power B
 			
 			* script: 
 				- download link: [codebreaking - version 2](assets/img/Code-version-2-Senave_Alex_oef_workshop11_1.4.2.py)
-				- Github link to script: ---to be added---			
+							
 
 		* End project
 			* Description
@@ -57,7 +57,7 @@ This website gives an overview of some of the class-projects (Python and Power B
 
 			* script: 
 				- download link: [escape room](assets/img/Senave_Alex_eindopdracht-module I.py)
-				- Github link to script: ---to be added---			
+							
 
 
 	* ***Python II (semester 2)***
@@ -88,7 +88,7 @@ This website gives an overview of some of the class-projects (Python and Power B
 			
 			* script: 
 				- download link: [bank](assets/img/Senave_Alex_oef_workshop5_2.1.py)
-				- Github link to script: ---to be added---			
+							
 	
 		* Exercise b
 			* Description
@@ -100,7 +100,7 @@ This website gives an overview of some of the class-projects (Python and Power B
 			
 			* script: 
 				- download link: [hangman](assets/img/Senave_Alex_oef_workshop10_2.zip)
-				- Github link to script: ---to be added---			
+							
 		
 		* End project
 			* Description
@@ -112,7 +112,7 @@ This website gives an overview of some of the class-projects (Python and Power B
 				
 			* script: 
 				- download link: [shop](assets/img/Senave_Alex_eindopdracht-module II.py)
-				- Github link to script: ---to be added---			
+							
 			
 
 	* ***Stock market***
@@ -128,7 +128,7 @@ This website gives an overview of some of the class-projects (Python and Power B
 	
 		* script: 
 			- download link: [stock market](assets/img/Stocks.zip)
-			- Github link to script: ---to be added---
+			
 
 
 * ## Power BI
